@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg_black{
+    background: black;
+}
+.bg_white{
+    background: white;
+}
+.bg_red{
+    background: red;
+}
+.bg_green{
+    background: green;
+}
+.bg_blue{
+    background: blue;
+}
+.bg_orange{
+    background: orange;
+}
+.bg_pink{
+    background: pink;
+}
