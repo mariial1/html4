@@ -23,3 +23,16 @@
 .bg_pink{
     background: pink;
 }
+.general{
+    margin: 0 200px 0 100px;
+    height: 800px;
+}
+.h_20{
+    height: 20%;
+}
+.h_10{
+    height: 10%;
+}
+.h_50{
+    height: 50%;
+}
