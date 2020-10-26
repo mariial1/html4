@@ -33,6 +33,9 @@
 .h_10{
     height: 10%;
 }
+.h_30{
+    height: 30%;
+}
 .h_50{
     height: 50%;
 }
@@ -62,6 +65,7 @@
 }
 .text{
     text-align: center;
+    color: white;
 }
 .fl{
     float: left;
@@ -81,32 +85,35 @@
     padding: 10px 0 5px 0;
 }
 .block_2 > .centre{
-    margin: 30px 10px 0 10px;
-    padding: 20px 0 0 0;
+    margin: 50px 10px 0 10px;
+    padding: 10px 0 0 0;
 }
 .block_4 > .sub {
-    margin: 30px 10px 0 10px;
-    padding: 20px 0 0 0;
+    margin: 20px 10px 0 10px;
+    padding: 10px 0 0 0;
 }
 .stomach{
-    height: 400px;
+    height: 600px;
 }
 .leftblock_2{
-    padding: 40px 15px 100px;
+    margin: 40px 20px 40px 20px;
+}
+.basement{
+    height: 100px;
 }
 
-/*.rightblock > .r1{*/
-/*    position: absolute;*/
-/*    bottom: 0;*/
-/*    left: 0;*/
-/*}*/
-/*.rightblock > .r2 {*/
-/*    position: absolute;*/
-/*    bottom: 20px;*/
-/*    left: 30px;*/
-/*}*/
-/*.rightblock > .r3 {*/
-/*    position: absolute;*/
-/*    bottom: 40px;*/
-/*    right: 0;*/
-/*}*/
+.rightblock > .r1{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.rightblock > .r2 {
+    position: absolute;
+    bottom: 20px;
+    left: 30px;
+}
+.rightblock > .r3 {
+    position: absolute;
+    bottom: 40px;
+    right: 0;
+}
