@@ -39,6 +39,9 @@
 .h_50{
     height: 50%;
 }
+.h-60{
+    height: 60%;
+}
 .h_80{
     height: 80%;
 }
@@ -84,9 +87,26 @@
     height: 150px;
     padding: 10px 0 5px 0;
 }
+.block_1 .a-sub{
+    margin: 15% 0 0 0;
+}
+.block_1 .b-sub{
+    margin: 15% 0 0 0;
+}
+.block_1 .c-sub{
+    margin: 15% 0 0 0;
+}
 .block_2 > .centre{
     margin: 50px 10px 0 10px;
     padding: 10px 0 0 0;
+}
+.block_3 .a-sub{
+    float: left;
+    margin: 15% 0 0 0;
+}
+.block_3 .b-sub{
+    float: right;
+    margin: 15% 0 0 0;
 }
 .block_4 > .sub {
     margin: 20px 10px 0 10px;
@@ -98,22 +118,46 @@
 .leftblock_2{
     margin: 40px 20px 40px 20px;
 }
-.basement{
-    height: 100px;
+.a-center{
+    margin: 55.5% 0 0 0;
 }
-
+.a-center .a-sub-left{
+    margin: 20% 0 0 0;
+}
+.a-center .b-sub-left{
+    margin: 35% 0 0 0;
+}
 .rightblock > .r1{
-    position: absolute;
-    bottom: 0;
-    left: 0;
+    margin: 55.5% 0 0 0;
 }
 .rightblock > .r2 {
-    position: absolute;
-    bottom: 20px;
-    left: 30px;
+    margin: 40% 0 0 0;
 }
 .rightblock > .r3 {
-    position: absolute;
-    bottom: 40px;
-    right: 0;
+    margin: 20% 0 0 0;
+}
+.r1 .a-sub{
+    margin: 20% 0 0 0;
+    float: left;
+}
+.r1 .b-sub{
+    margin: 20% 0 0 0;
+    float: right;
+}
+.r3 .text1{
+    margin: 40% 0 0 0;
+    float: left;
+}
+.r3 .text2{
+    margin: 20% 0 0 0;
+    float: right;
+}
+.r3 .a-sub {
+    margin: 90px 0 0 0;
+}
+.r3 .b-sub{
+    margin: 39px 0 0 0;
+}
+.basement {
+    height: 50px;
 }
