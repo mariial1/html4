@@ -24,9 +24,8 @@
     background: pink;
 }
 .general{
-    margin: 0 200px 0 100px;
+    margin: 0 auto;
     width: 1200px;
-    height: 1200px;
 }
 .h_20{
     height: 20%;
@@ -36,6 +35,9 @@
 }
 .h_50{
     height: 50%;
+}
+.h_80{
+    height: 80%;
 }
 .h_100{
     height: 100%;
@@ -64,6 +66,9 @@
 .fl{
     float: left;
 }
+.siteheader{
+    height: 250px;
+}
 .siteheader > .centre{
     margin: 10px 100px;
     padding: 20px 40px;
@@ -72,6 +77,7 @@
     margin: 10px 80px 0 80px;
 }
 .menu{
+    height: 150px;
     padding: 10px 0 5px 0;
 }
 .block_2 > .centre{
@@ -83,7 +89,7 @@
     padding: 20px 0 0 0;
 }
 .stomach{
-    padding: 10px 0 0 0;
+    height: 400px;
 }
 .leftblock_2{
     padding: 40px 15px 100px;
