@@ -25,7 +25,8 @@
 }
 .general{
     margin: 0 200px 0 100px;
-    height: 800px;
+    width: 1200px;
+    height: 1200px;
 }
 .h_20{
     height: 20%;
@@ -35,4 +36,49 @@
 }
 .h_50{
     height: 50%;
+}
+.h_100{
+    height: 100%;
+}
+.h_avto{
+    height: auto;
+}
+.w-25{
+    width: 25%;
+}
+.w-30{
+    width: 33.3%;
+}
+.w-50{
+    width: 50%;
+}
+.w-100{
+    width: 100%;
+}
+.w-avto{
+    width: auto;
+}
+.text{
+    text-align: center;
+}
+.fl{
+    float: left;
+}
+.siteheader > .centre{
+    margin: 10px 100px;
+    padding: 20px 40px;
+}
+.siteheader .a-sub{
+    margin: 10px 80px 0 80px;
+}
+.menu{
+    padding: 10px 0 5px 0;
+}
+.block_2 > .centre{
+    margin: 30px 10px 0 10px;
+    padding: 20px 0 0 0;
+}
+.block_4 > .sub {
+    margin: 30px 10px 0 10px;
+    padding: 20px 0 0 0;
 }
