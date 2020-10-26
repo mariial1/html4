@@ -26,6 +26,7 @@
 .general{
     margin: 0 auto;
     width: 1200px;
+    border: red solid 2px;
 }
 .h_20{
     height: 20%;
